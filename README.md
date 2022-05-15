@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @adudree !
+- 👀 I’m interested in web development and 3D programming
+- 🌱 I’m currently learning a lot of things (C/C++, OpenGL, C# Unity, but also VueJS, NuxtJS, HTML/CSS, etc.)  
+- 📫 I'm an engineering student in IMAC at the Université Gustave Eiffel in Champs-sur-Marne (France).
